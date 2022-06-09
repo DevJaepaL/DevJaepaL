@@ -4,6 +4,7 @@ ___
 <a href="https://github.com/DevJaepaL"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://blog.naver.com/wocks3254"><img alt="BLOG" src ="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.instagram.com/jaechane/"><img alt="Instagram" src ="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <br>
 <a href="mailto:wocks3254@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCZfp2GI6PfR7-6pn4OlqlPA"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu"><img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/></a>
