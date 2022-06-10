@@ -1,5 +1,5 @@
 ___
-#### 🚀 JaepaL 🚀
+####  JaepaL 
 <div>
 <a href="https://github.com/DevJaepaL"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://blog.naver.com/wocks3254"><img alt="BLOG" src ="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/></a>
@@ -11,7 +11,7 @@ ___
 </div>
 
 ___
-#### Learning Now 📗
+#### Learning Now.
 
 <p>
   <a href=""><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>
