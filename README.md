@@ -30,4 +30,8 @@
  
  ___
  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devjaepal&show_icons=true&locale=en" alt="devjaepal" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devjaepal&show_icons=true&locale=en" alt="devjaepal" /> <br>
+<br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wocks3254">
+</p>
