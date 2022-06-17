@@ -42,12 +42,3 @@
   <a href=""><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
   <br><br><br>
  </p>
- 
- <h2 align="center">  Stats 📈 </h2>
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devjaepal&show_icons=true&" alt="devjaepal" /> <br>
-<br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wocks3254">
-</p>
-<br>
