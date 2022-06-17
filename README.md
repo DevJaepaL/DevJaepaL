@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UCZfp2GI6PfR7-6pn4OlqlPA"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
   <a href="mailto:wocks3254@gmail.com" target="blank"><img alt="GMAIL" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a><br><br>
     <a href=""><img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
-   <a href="https://velog.io/@jaepal"><img alt="velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
+   <a href="https://velog.io/@jaepal" target="blank"><img alt="velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu"><img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/></a>
 </p>
 <br><br>
