@@ -3,7 +3,7 @@
 <br><br>
 <h2 align="center">My Blog & Contact</h2>
 <p align="center"> 
-  <a href="instagram.com/jaechane"><img alt="Insta" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jaechane/"><img alt="Insta" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCZfp2GI6PfR7-6pn4OlqlPA"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
   <a href="mailto:wocks3254@gmail.com"><img alt="GMAIL" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a><br><br>
     <a href=""><img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
