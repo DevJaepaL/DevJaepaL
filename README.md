@@ -51,9 +51,3 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wocks3254">
 </p>
 <br>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaepal)](https://github.com/devjaepal/github-readme-stats)
- 
-</div>
