@@ -1,6 +1,7 @@
+
 ___
-####  JaepaL 
-<div>
+<h4 align="center">My SNS & Contact</h4> 
+<div align="center">
 <a href="https://github.com/DevJaepaL"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.instagram.com/jaechane/"><img alt="Instagram" src ="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@jaepal"><img alt="velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
@@ -11,28 +12,21 @@ ___
 </div>
 
 ___
-#### Learning Now
+<h4 align="center">Learning Language</h4>
 
-<p>
+<p align="center">
   <a href=""><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>
    <a href=""><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
   <a href=""><img alt="Colab" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
   <br>
-<p>
+<p align="center">
    <a href=""><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
   <a href=""><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>
   <a href=""><img alt="Js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
   <br>
  </p>
-  <div>
+  <div align="center">
    <a href=""><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
   </div>
   
   ___
-  #### Learn Will ⭐
-  <div>
-  <a href=""><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/></a>
-  <a href=""><img alt="Java" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/></a>
-  <a href=""><img alt="Ts" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-  <a href=""><img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>
- </div>
