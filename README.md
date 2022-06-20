@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://ifh.cc/g/B5mAqN.png" alt=""></p>
 
 <br><br>
-<h2 align="center">🌳 My Blog & Contact 🌳</h2>
+<h2 align="center">🌳 Blog & Contact 🌳</h2>
 
 <br>
 
