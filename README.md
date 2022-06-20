@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://ifh.cc/g/B5mAqN.png" alt=""></p>
 
 <br><br>
-<h2 align="center">🌳 Blog & Contact 🌳</h2>
+<h2 align="center">🌳 𝖡𝗅𝗈𝗀 & 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 🌳</h2>
 
 <br>
 
@@ -17,7 +17,7 @@
 
 
 
-<h2 align="center"> ✍ Learning Language ✍</h2>
+<h2 align="center"> ✍𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 ✍</h2>
 
 <br>
 
