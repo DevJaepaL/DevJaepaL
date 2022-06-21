@@ -4,13 +4,13 @@
    
    </div>
    
-   <p align='center'>
+   <div align='center'>
    
    
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devjaepal)](https://github.com/anuraghazra/github-readme-stats) 
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wocks3254)](https://solved.ac/wocks3254/)
    
-   </p>
+   </div>
 
   
 <h2 align="center">🌳 𝖡𝗅𝗈𝗀 & 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 🌳</h2>
