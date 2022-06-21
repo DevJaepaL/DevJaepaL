@@ -1,6 +1,12 @@
-<p align="center"><img align="center" src="https://ifh.cc/g/B5mAqN.png" alt=""></p>
+   <div align="center">
+   
+   <img align="center" src="https://ifh.cc/g/B5mAqN.png" alt=""><br>
 
-<br><br>
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devjaepal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+   </div>
+   
 <h2 align="center">🌳 𝖡𝗅𝗈𝗀 & 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 🌳</h2>
 
 <br>
@@ -14,23 +20,3 @@
   <a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu"><img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/></a>
    <a href="https://www.youtube.com/channel/UCZfp2GI6PfR7-6pn4OlqlPA"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
-
-
-
-<h2 align="center"> ✍𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 ✍</h2>
-
-<br>
-
-<p align="center">
-  <a href=""><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>
-   <a href=""><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-  <a href=""><img alt="Colab" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-  <br>
-<p align="center">
-   <a href=""><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-  <a href=""><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-  <a href=""><img alt="Js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a><br><br>
-  <a href=""><img alt="Unreal Engine" src ="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/></a><br><br>
-  <a href=""><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-  <br><br><br>
- </p>
