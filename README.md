@@ -9,6 +9,8 @@
    
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devjaepal)](https://github.com/anuraghazra/github-readme-stats) 
    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaepal&hide=jupyterotebook)](https://github.com/anuraghazra/github-readme-stats)
+   
    </div>
 
   
