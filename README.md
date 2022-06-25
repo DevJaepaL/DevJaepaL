@@ -1,17 +1,11 @@
-   <div align="center">
-   
+   <p align="center">
    <img align="center" src="https://ifh.cc/g/B5mAqN.png" alt=""><br>
+   </p>
    
-   </div>
-   
-   <div align='center'>
-   
-   
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devjaepal)](https://github.com/anuraghazra/github-readme-stats) 
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaepal&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   
-   </div>
+<p align="center">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=devjaepal&show_icons=true" align = "center"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjaepal&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" align = "center"/>
+</p>
 
   
 <h2 align="center">🌳</h2>
