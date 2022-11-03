@@ -1,21 +1,48 @@
-   <p align="center">
-   </p>
+<div align="center">
    
-<p align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=devjaepal&show_icons=true" align = "center"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjaepal&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" align = "center"/>
-</p>
+![header](https://capsule-render.vercel.app/api?&type=waving&color=3A9CF2)
+   
 
+###### Hello There !<br>
+###### My name is <b>Jae Chan Lee.</b><br>   
   
-<h2 align="center">🦉</h2>
+###### I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
 
+##### 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨
+   
 <br>
+   
+#### Contact
+   
+<div align="center">
+	<a href="mailto:wocks3254@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>&nbsp;
+   <a href="https://discordapp.com/users/983762984620945459" target="_blank"><img src="https://img.shields.io/badge/Discord-5365F2.svg?style=flat&logo=Discord&logoColor=FFFFFF"/></a>
+</div>
+   
+#### Blog & SNS
+   
+<a href="https://velog.io/@jaepal" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat&logo=Velog&logoColor=FFFFFF"/></a>&nbsp;
+<a href="https://blog.naver.com/wocks3254" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=FFFFFF"/></a>&nbsp;
+<a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=flat&logo=Spotify&logoColor=FFFFFF"/></a>
+   
+#### Skills
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-F89820.svg?style=flat&logo=Java&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=FFFFFF"/>&nbsp; <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=FFFFFF"/>&nbsp;
+   
+#### Tools
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=flat&logo=Visual Studio&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=FFFFFF"/>&nbsp;<br>
 
-<p align="center"> 
-   <a href="https://velog.io/@jaepal"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jaechane/"><img alt="Insta" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:wocks3254@gmail.com" target="blank"><img alt="GMAIL" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a><br>
-    <a href="https://discordapp.com/users/983762984620945459"><img alt="Discord" src ="https://img.shields.io/badge/discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu"><img alt="Spotify" src ="https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white"/></a>
-   <a href="https://www.youtube.com/channel/UCZfp2GI6PfR7-6pn4OlqlPA"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
-</p>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=FFFFFF"/>&nbsp;
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=FFFFFF"/>&nbsp;
+</div>
