@@ -3,12 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=3A9CF2)
    
 
-###### Hello There !<br>
-###### My name is <b>Jae Chan Lee.</b><br>   
+##### Hello There !<br>
+##### My name is <b>Jae Chan Lee.</b><br>   
   
-###### I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
+##### I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
 
-##### 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨
+#### 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨
    
 #### Contact
    
