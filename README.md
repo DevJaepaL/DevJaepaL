@@ -3,28 +3,23 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=3A9CF2)
    
 
-##### Hello There !<br>
-##### My name is <b>Jae Chan Lee.</b><br>   
+ Hello There !<br>
+ My name is <b>Jae Chan Lee.</b><br>   
   
-##### I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
+ I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
 
-#### 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨
-___
+<b> 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨ </b>
 	
 #### Contact
 <div align="center">
 	<a href="mailto:wocks3254@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>&nbsp;
    <a href="https://discordapp.com/users/983762984620945459" target="_blank"><img src="https://img.shields.io/badge/Discord-5365F2.svg?style=flat&logo=Discord&logoColor=FFFFFF"/></a>
 </div>
-
-___
 	
 #### Blog & SNS
 <a href="https://velog.io/@jaepal" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat&logo=Velog&logoColor=FFFFFF"/></a>&nbsp;
 <a href="https://blog.naver.com/wocks3254" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=FFFFFF"/></a>&nbsp;
 <a href="https://open.spotify.com/user/315akziob73jvy6udr4gibs52khu" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=flat&logo=Spotify&logoColor=FFFFFF"/></a>
-
-___
 	
 #### Skills
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=FFFFFF"/>&nbsp;
@@ -37,7 +32,6 @@ ___
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=FFFFFF"/>&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=FFFFFF"/>&nbsp;
 
-___
 #### Tools
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=flat&logo=Visual Studio&logoColor=FFFFFF"/>&nbsp;
