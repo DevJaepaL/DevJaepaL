@@ -4,9 +4,8 @@
    
 
  Hello There !<br>
- My name is <b>Jae Chan Lee.</b><br>   
   
- I lovely to write Computer Science & Today I Learned.<br> Thanks for visit my GitHub Profile.
+I lovely to write <b>Computer Science & Today I Learned</b>.<br> Thanks for visit my GitHub Profile.
 
 <b> 🎇 ⁺⸜(  •⌄•  )⸝⁺ ✨ </b>
 	
