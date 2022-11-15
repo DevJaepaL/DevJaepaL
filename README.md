@@ -11,7 +11,7 @@ I lovely to write <b>Computer Science & Today I Learned</b>.<br> Thanks for visi
 	
 #### Contact & SNS
 <div align="center">
-<a href="https://private-ocicat-65c.notion.site/f476d79537ca4333b9e65d85c7fb0313?v=fbd39a28c86c4b9bbe33a9b77d1f553e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=FFFFFF"/></a>&nbsp;
+<a href="https://www.notion.so/Jae-Chan-0991b179aa1f47ac97d4f71e1eb8226b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=FFFFFF"/></a>&nbsp;
 <a href="https://velog.io/@jaepal" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat&logo=Velog&logoColor=FFFFFF"/></a>&nbsp;
 <a href="blog.naver.com/wocks3254" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=FFFFFF"/></a>&nbsp;
 <br>
