@@ -21,6 +21,7 @@ I lovely to write <b>Computer Science & Today I Learned</b>.<br> Thanks for visi
 </div>
 	
 #### Language
+<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=Kotlin&logoColor=FFFFFF"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=FFFFFF"/>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=FFFFFF"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-F89820.svg?style=flat&logo=Java&logoColor=FFFFFF"/>&nbsp;
